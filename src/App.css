@@ -15,6 +15,7 @@ body {
 }
 
 .app-title {
+	font-family: "Berkshire Swash", cursive;
 	margin: 75px 0 50px 0;
 	font-size: 76px;
 	color: #0ccac4;
